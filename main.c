@@ -1,3 +1,5 @@
+//adding first comment
+
 #include <stdio.h>
 #include <math.h>
 
